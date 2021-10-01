@@ -17,11 +17,11 @@ export const lightTheme = createTheme({
           1: "#85A5FF", // Accents //geekblue4
         },
         transferUi: {
-          1: "#7C99B9", // FAQ button // gray8
+          1: "#631bc1", // FAQ button // gray8
         },
         header: {
           1: "#F5F5F5", // Background
-          2: "#11396F", // Text color //gray8
+          2: "#631bc1", // Text color //gray8
           3: "#BFBFBF", // border // gray6
         },
         preflight: {
@@ -45,22 +45,22 @@ export const lightTheme = createTheme({
         variants: {
           primary: {
             root: {
-              backgroundColor: "#1B6DC1",
+              backgroundColor: "#550e8a",
               color: "#ffffff",
-              border: `1px solid #1B6DC1`,
+              border: `1px solid #550e8a`,
               "& svg": {
                 fill: "#ffffff",
               },
             },
             active: {
-              backgroundColor: "#1B6DC1",
+              backgroundColor: "#550e8a",
               color: "#ffffff",
               "& svg": {
                 fill: "#ffffff",
               },
             },
             hover: {
-              backgroundColor: "#7C99B9",
+              backgroundColor: "#a872d0",
               color: "#ffffff",
               "& svg": {
                 fill: "#ffffff",
