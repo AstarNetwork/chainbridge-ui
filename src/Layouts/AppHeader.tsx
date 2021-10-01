@@ -83,9 +83,9 @@ const AppHeader: React.FC<IAppHeader> = () => {
       <div className={classes.left}>
         {/* ADD LOGO HERE */}
         <div className={classes.logo}>
-          <img src="./favicon.png" alt="Astar" />
+          <img src="./shiden.png" alt="Shiden" />
         </div>
-        <Typography variant="h4">AstarBridge Token Swap</Typography>
+        <Typography variant="h4">ShidenBridge Token Swap</Typography>
       </div>
       <section className={classes.state}>
         {!isReady ? (

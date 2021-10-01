@@ -86,10 +86,10 @@ const useStyles = makeStyles(
             fill: "#7C99B9",
           },
           "&.active": {
-            color: "#1B6DC1",
+            color: "#631bc1",
             textDecoration: "underline",
             "& svg": {
-              fill: "#1B6DC1",
+              fill: "#631bc1",
             },
           },
           "& > *:first-child": {
